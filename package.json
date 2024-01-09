@@ -1,0 +1,8 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "CS362 Assignment 1 Dustin Kever-Smith",
+  "main": "asciiArt.js",
+  "euthor": "Dustin Kever-Smith",
+  "license": "ISC"
+}
